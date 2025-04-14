@@ -1,4 +1,4 @@
-# API-Test-Automation-2-Approach-
+# API-Test-Automation 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 # Test Automation Approaches: Postman CLI CI/CD vs. Newman CI/CD
